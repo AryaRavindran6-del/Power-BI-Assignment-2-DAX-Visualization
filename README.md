@@ -104,4 +104,3 @@ Maximum Layoffs =
 This assignment demonstrates the application of Power Query, DAX, and Power BI visualizations to transform raw datasets into structured analytical insights. It strengthened practical skills in data preparation, calculations, data quality assessment, and visual reporting.
 
 **Course:** Program in AI-Driven Data Analytics  
-**Platform:** Entri App
